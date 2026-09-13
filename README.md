@@ -25,9 +25,9 @@
 
 ```yaml
 handle:     longvibehack
-focus:      reverse engineering, binary exploitation, CTF
+focus:      reverse engineering, forenstics, CTF
 mindset:    static analysis first, dynamic when static lies
-daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace]
+daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace, wiresharkl]
 currently:  hunting for the next flag
 ```
 
