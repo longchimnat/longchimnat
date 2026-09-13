@@ -73,13 +73,7 @@ currently:  hunting for the next flag
 
 ### `> whois --contact`
 
-<p align="center">
-  <a href="https://ctftime.org/"><img src="https://img.shields.io/badge/-CTFtime-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
-</p>
-
-<div align="center">
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41" /></a> <a href="https://www.facebook.com/pham.hoang.long.631256"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" /></a> <a href="https://www.instagram.com/longchimnat2425/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a> </p> <div align="center">
 
 ```
 $ exit
