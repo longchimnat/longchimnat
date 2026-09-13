@@ -25,9 +25,9 @@
 
 ```yaml
 handle:     longvibehack
-focus:      reverse engineering, forenstics, CTF
+focus:      reverse engineering, binary exploitation, CTF
 mindset:    static analysis first, dynamic when static lies
-daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace, wireshark]
+daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace]
 currently:  hunting for the next flag
 ```
 
@@ -37,6 +37,7 @@ currently:  hunting for the next flag
 
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-000000?style=for-the-badge&logo=ida&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Ghidra-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/-GDB%2FPwndbg-000000?style=for-the-badge&logo=gnu&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/-x64dbg-000000?style=for-the-badge&logo=windows&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
@@ -65,15 +66,31 @@ currently:  hunting for the next flag
 
 ### `> cat writeups.log`
 
-<p align="center"> <a href="https://github.com/longchimnat/my-ctf-write-up"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=longchimnat&repo=my-ctf-write-up&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/longchimnat/my-ctf-write-up">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longchimnat&repo=my-ctf-write-up&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  </a>
+</p>
 
-📌 Repo writeup: longchimnat/my-ctf-write-up
+> 📌 Repo writeup: [longchimnat/my-ctf-write-up](https://github.com/longchimnat/my-ctf-write-up)
+
 
 ---
 
 ### `> whois --contact`
 
-<p align="center"> <a href="#"><img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41" /></a> <a href="https://www.facebook.com/pham.hoang.long.631256"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" /></a> <a href="https://www.instagram.com/longchimnat2425/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a> </p> <div align="center">
+<p align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/749467090301223003?theme=dark&bg=0D1117&animated=true&borderRadius=8px)](https://discord.com/users/749467090301223003)
+
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/pham.hoang.long.631256"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" /></a>
+  <a href="https://www.instagram.com/longchimnat2425/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
+</p>
+
+<div align="center">
 
 ```
 $ exit
