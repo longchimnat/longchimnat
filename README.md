@@ -27,7 +27,7 @@
 handle:     longvibehack
 focus:      reverse engineering, forenstics, CTF
 mindset:    static analysis first, dynamic when static lies
-daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace, wiresharkl]
+daily_tools: [objdump, gdb+pwndbg, x64dbg, IDA, ltrace/strace, wireshark]
 currently:  hunting for the next flag
 ```
 
@@ -37,9 +37,9 @@ currently:  hunting for the next flag
 
 <p align="center">
   <img src="https://img.shields.io/badge/-IDA%20Pro-000000?style=for-the-badge&logo=ida&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/-Ghidra-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/-GDB%2FPwndbg-000000?style=for-the-badge&logo=gnu&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/-x64dbg-000000?style=for-the-badge&logo=windows&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
@@ -65,8 +65,9 @@ currently:  hunting for the next flag
 
 ### `> cat writeups.log`
 
-> 📌 Pin các repo writeup CTF của bạn lên trang profile — mỗi repo nên có README ngắn: **challenge name → category → key technique → flag**.
-> Gợi ý đặt tên repo: `ctf-writeups`, `pwn-notes`, `re-challenges`.
+<p align="center"> <a href="https://github.com/longchimnat/my-ctf-write-up"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=longchimnat&repo=my-ctf-write-up&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" /> </a> </p>
+
+📌 Repo writeup: longchimnat/my-ctf-write-up
 
 ---
 
