@@ -80,9 +80,9 @@ currently:  hunting for the next flag
 ### `> whois --contact`
 
 <p align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/749467090301223003?theme=dark&bg=0D1117&animated=true&borderRadius=8px)](https://discord.com/users/749467090301223003)
-
+  <a href="https://discord.com/users/749467090301223003">
+    <img src="https://lanyard.cnrad.dev/api/749467090301223003?theme=dark&bg=0D1117&animated=true&borderRadius=8px" />
+  </a>
 </p>
 
 <p align="center">
@@ -92,9 +92,9 @@ currently:  hunting for the next flag
 
 <div align="center">
 
-```
+<pre>
 $ exit
 Connection to longvibehack closed.
-```
+</pre>
 
 </div>
