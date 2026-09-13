@@ -54,12 +54,12 @@ currently:  hunting for the next flag
 ### `> ./stats.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longchimnat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats-nine-murex-51.vercel.app/api?username=longchimnat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=longchimnat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longchimnat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-stats-nine-murex-51.vercel.app/api/top-langs/?username=longchimnat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="45%" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ currently:  hunting for the next flag
 
 <p align="center">
   <a href="https://github.com/longchimnat/my-ctf-write-up">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=longchimnat&repo=my-ctf-write-up&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+    <img src="https://github-readme-stats-nine-murex-51.vercel.app/api/pin/?username=longchimnat&repo=my-ctf-write-up&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
   </a>
 </p>
 
